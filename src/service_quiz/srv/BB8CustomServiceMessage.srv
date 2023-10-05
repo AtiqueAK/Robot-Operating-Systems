@@ -1,0 +1,5 @@
+float64 side         # The distance of each side of the square
+int32 repetitions    # The number of times BB-8 has to execute the square movement when the service is called
+float64 velocity     # The velocity at which BB-8 should move
+---
+bool success         # Did it achieve it?

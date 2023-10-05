@@ -1,0 +1,6 @@
+<launch>
+  <!-- Launch the bb8_move_custom_service_server node -->
+  <node name="services_quiz_node" pkg="services_quiz" type="bb8_move_custom_service_server.py" output="screen">
+    <!-- Add any necessary command-line arguments or parameters here -->
+  </node>
+</launch>
